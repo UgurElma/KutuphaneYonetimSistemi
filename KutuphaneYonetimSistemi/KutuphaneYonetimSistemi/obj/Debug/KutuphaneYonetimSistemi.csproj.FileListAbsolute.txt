@@ -1,0 +1,7 @@
+C:\Users\elmau\OneDrive\Masaüstü\Yazılım Mühendisliği Sınıf 1\Nesne yönelimli proglama C#\Ödev\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.exe.config
+C:\Users\elmau\OneDrive\Masaüstü\Yazılım Mühendisliği Sınıf 1\Nesne yönelimli proglama C#\Ödev\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.exe
+C:\Users\elmau\OneDrive\Masaüstü\Yazılım Mühendisliği Sınıf 1\Nesne yönelimli proglama C#\Ödev\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.pdb
+C:\Users\elmau\OneDrive\Masaüstü\Yazılım Mühendisliği Sınıf 1\Nesne yönelimli proglama C#\Ödev\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\elmau\OneDrive\Masaüstü\Yazılım Mühendisliği Sınıf 1\Nesne yönelimli proglama C#\Ödev\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\elmau\OneDrive\Masaüstü\Yazılım Mühendisliği Sınıf 1\Nesne yönelimli proglama C#\Ödev\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.exe
+C:\Users\elmau\OneDrive\Masaüstü\Yazılım Mühendisliği Sınıf 1\Nesne yönelimli proglama C#\Ödev\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.pdb
