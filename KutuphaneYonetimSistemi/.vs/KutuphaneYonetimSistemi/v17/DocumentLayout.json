@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\",
+  "WorkspaceRootPath": "C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\elmau\\onedrive\\masa\u00FCst\u00FC\\kodlama ve programlama\\visual studio\\proje 4\\kutuphaneyonetimsistemi\\kutuphaneyonetimsistemi\\kutuphaneyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\kutuphaneyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\kutuphaneyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\elmau\\onedrive\\belgeler\\github\\kutuphaneyonetimsistemi\\kutuphaneyonetimsistemi\\kutuphaneyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A116629-A644-4822-8C91-B0B9508352FE}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Program.cs",
               "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Program.cs",
-              "ToolTip": "C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Program.cs",
               "RelativeToolTip": "KutuphaneYonetimSistemi\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwIYAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T12:12:18.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KutuphaneYonetici.cs",
-              "DocumentMoniker": "C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetici.cs",
+              "DocumentMoniker": "C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetici.cs",
               "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\KutuphaneYonetici.cs",
-              "ToolTip": "C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetici.cs",
+              "ToolTip": "C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetici.cs",
               "RelativeToolTip": "KutuphaneYonetimSistemi\\KutuphaneYonetici.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T12:31:10.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Kullanici.cs",
-              "DocumentMoniker": "C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Kullanici.cs",
               "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Kullanici.cs",
-              "ToolTip": "C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Kullanici.cs",
               "RelativeToolTip": "KutuphaneYonetimSistemi\\Kullanici.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAoAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwCAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:27:52.888Z"
+              "WhenOpened": "2024-05-30T12:27:52.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Kitap.cs",
-              "DocumentMoniker": "C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Kitap.cs",
               "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Kitap.cs",
-              "ToolTip": "C:\\Users\\elmau\\OneDrive\\Masa\u00FCst\u00FC\\Kodlama ve Programlama\\Visual Studio\\Proje 4\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Kitap.cs",
+              "ToolTip": "C:\\Users\\elmau\\OneDrive\\Belgeler\\GitHub\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Kitap.cs",
               "RelativeToolTip": "KutuphaneYonetimSistemi\\Kitap.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAYwCMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:20:22.727Z"
+              "WhenOpened": "2024-05-30T12:20:22.727Z",
+              "EditorCaption": ""
             }
           ]
         }

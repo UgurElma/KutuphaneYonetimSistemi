@@ -10,11 +10,11 @@ class KutuphaneYonetici
     /// <summary>
     /// Kitaplar.txt yolu
     /// </summary>
-    string pathbooks = "\\Kitaplar.txt";
+    string pathbooks = ".\\Kitaplar.txt";
     /// <summary>
     /// Kullanıcılar.txt yolu
     /// </summary>
-    string pathusers = "\\Kullanicilar.txt";
+    string pathusers = ".\\Kullanicilar.txt";
     /// <summary>
     /// Bütün kitapların tutulduğu liste
     /// </summary>
